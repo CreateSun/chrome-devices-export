@@ -1,0 +1,23 @@
+{
+  "name": "2025-06-12-chrome-device",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "chrome-device-import": "import.js",
+    "chrome-device-export": "export.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "import": "node import.js",
+    "export": "node export.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "express": "^5.1.0",
+    "prompt-confirm": "^2.0.4",
+    "zod": "^3.25.63"
+  }
+}
