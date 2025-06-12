@@ -1,4 +1,4 @@
-# Chrome Emulated Device
+# Chrome Emulated Devices Exporter & Importer
 
 > This is a tool to import and export chrome device list.
 
