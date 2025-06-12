@@ -1,5 +1,7 @@
 # Chrome Emulated Devices Exporter & Importer
 
+[中文](./README_CN.md)
+
 > This is a tool to import and export chrome device list.
 
 ## How does it work?
