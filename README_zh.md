@@ -41,3 +41,7 @@ node export.js --profile "/Users/xx/Library/Application Support/Google/Chrome/De
 ```bash
 chrome://version/
 ```
+
+## 注意事项
+
+当您导入设备列表时，Chrome 必须关闭，否则导入将无效。

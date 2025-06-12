@@ -41,3 +41,8 @@ node export.js --profile "/Users/xx/Library/Application Support/Google/Chrome/De
 ```bash
 chrome://version/
 ```
+
+
+## Attention
+
+When you import the device list, Chrome must be closed, otherwise the import will be invalid.
